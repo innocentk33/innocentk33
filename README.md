@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm innocent Kacou
-#### Un développeur depuis la Côte d’Ivoire
+#### Un développeur ivoirien depuis rennes
 ![Un développeur depuis la Côte d’Ivoire](https://pbs.twimg.com/profile_banners/1338564577/1537632407/1500x500)
 
 J'apprends le développement d'application en continu. Je crée des applications mobiles. Je partage tout ce que j'apprends au travers de la chaine ([Youtube](https://www.youtube.com/c/Technovoreci))
