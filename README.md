@@ -6,8 +6,8 @@ J'apprends le développement d'application en continu. Je crée des applications
 
 Skills: JAVA / FLUTTER / HTML / CSS / AL
 
-- 🔭 I’m currently working on un projet java et flutter 
-- 🌱 I’m currently learning JAVA/FLUTTER 
+- 🔭 I’m currently working on flutter 
+- 🌱 I’m currently learning FLUTTER 
 - 📫 How to reach me: innocentk33@gmail.com 
 
 ### 🧰 Languages and Tools
