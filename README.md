@@ -11,6 +11,4 @@ Skills: FLUTTER / HTML / CSS / AL et IA Claude
 
 ![GitHub metrics](https://metrics.lecoq.io/innocentk33)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=innocentk33)  
 
-![Profile views](https://gpvc.arturio.dev/innocentk33)  
